@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BmiCalculator</string>
+    <string name="resultButton">결과</string>
+    <string name="ResultTextView">결과가 표시되는 곳</string>
+</resources>
