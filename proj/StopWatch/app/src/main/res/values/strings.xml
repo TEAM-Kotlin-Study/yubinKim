@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="textview">TextView</string>
+    <string name="labButton">랩 타임</string>
+    <string name="textView">TextView</string>
+    <string name="lapButton">랩 타임</string>
+</resources>
